@@ -6,6 +6,7 @@ public class Principal {
 
 		//Esta es la clase principal de ejecución del proyecto 
 		//para la asignatura TicII
+		//Aquí se incluye el funcionamiento
 	}
 
 }
